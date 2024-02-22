@@ -1,0 +1,10 @@
+﻿income,expenses,budgetclass
+125000,100000,notexceeding
+150000,149000,notexceeding
+175000,165000,notexceeding
+200000,200000,notexceeding
+225000,375000,exceeding
+250000,450000,exceeding
+275000,375000,exceeding
+300000,400000,exceeding
+325000,355000,exceeding
