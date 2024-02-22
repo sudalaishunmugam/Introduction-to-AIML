@@ -1,0 +1,9 @@
+﻿Credit_Score,Income,Debt_to_Income_Ratio,Default_on_Loan
+700,50000,0.3,No
+650,60000,0.4,No
+600,45000,0.5,Yes
+750,70000,0.2,No
+680,55000,0.35,No
+620,48000,0.45,Yes
+720,65000,0.25,No
+690,58000,0.38,Yes
